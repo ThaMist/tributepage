@@ -2,3 +2,12 @@ body {
     background-color: azure;
 }
 
+heading {
+    display: flex;
+}
+
+
+
+#carousel {
+    margin: 20, 20;
+}
