@@ -1,12 +1,10 @@
 let img;
 let canvas;
-let d;
 
 function setup() {
     canvas = createCanvas(windowWidth, windowHeight/2);
     canvas.parent('canvasForHTML');
     img=loadImage('/images/mountains.png');
-    d=10;
     
 }
 

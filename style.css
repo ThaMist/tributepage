@@ -6,7 +6,15 @@ heading {
     display: flex;
 }
 
+.header, p {
+    font-family: 'Zen Antique', serif;
+    font-weight: bolder;
+    font-size: 2.5em;
+}
 
+.header, span {
+    font-family: 'Roboto', sans-serif;
+}
 
 #carousel {
     margin: 20, 20;
